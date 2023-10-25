@@ -11,7 +11,7 @@ const Navbar = () => {
                     </p>
                 </div>
 
-                <div>
+                <div className="hidden lg:block">
                     <ul className="flex gap-8">
                         <li>
                             <NavLink className='text-lg font-medium'>
